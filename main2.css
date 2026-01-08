@@ -539,7 +539,7 @@ body.dark-theme #header:hover #avtarization:hover {
 }
 
 #MenuImg {
-    background-image: url(/Img/Screen3.png);
+    background-image: url(https://github.com/Negs1k/almazik-project1.github.io/blob/main/Img/Screen3.png?raw=true);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -639,4 +639,5 @@ body.dark-theme .fa-youtube:hover {
 
 #cont4 {
     margin-left: -170px;
+
 }
